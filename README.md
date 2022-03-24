@@ -1,3 +1,5 @@
+![headshot](github_avatar.jpg)
+
 # HelloWorld
 Yet another repository
 
