@@ -1,4 +1,4 @@
-![headshot](github_avatar.jpg)
+![headshot](github_avatar_small.jpg)
 
 # HelloWorld
 Yet another repository
